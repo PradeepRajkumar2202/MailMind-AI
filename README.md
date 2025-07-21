@@ -11,5 +11,5 @@ MailMind AI is a Chrome extension that helps users generate smart auto-replies f
 
 ## 📸 Screenshots
 
-<img src="./Extension/MailMind-AI-EXT/assets/Screenshot (9).png" width="800"/>
+<img src="./Extension/MailMind-AI-EXT/assets/Screenshot (9).png" width="1000"/>
 <img src="./Extension/MailMind-AI-EXT/assets/Screenshot (10).png" width="400"/>
